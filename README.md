@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm Aung Kaung Myat
 
-<!--
-**aungkaungmyat-is-coding/aungkaungmyat-is-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I have 2 years of experience crafting user-friendly and performant applications using React Native for mobile development and the MERN stacks for web development.  I'm passionate about leveraging technology to solve problems and create intuitive experiences for users.  I enjoy working on both the front-end and back-end of applications, ensuring a seamless user experience across all touchpoints.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
