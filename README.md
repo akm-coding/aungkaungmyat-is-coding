@@ -5,7 +5,7 @@ I have 2 years of experience crafting user-friendly and performant applications 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungkaungmyat-is-coding&label=Profile%20views&color=0e75b6&style=flat" alt="aungkaungmyat-is-coding" /> </p>
 
-- 🔭 I’m currently ooking for Front End Developer and React Native Developer positions
+- 🔭 I’m currently looking for Front End Developer and React Native Developer positions
 
 - 🌱 I’m currently learning **Kotlin and Golang**
 
