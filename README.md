@@ -10,6 +10,3 @@ I have 2 years of experience crafting user-friendly and performant applications 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  ### Skills
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
