@@ -9,8 +9,6 @@ I have 2 years of experience crafting user-friendly and performant applications 
 
 - 🌱 I’m currently learning **Kotlin and Golang**
 
-- 👨‍💻 All of my projects are available at [akm-personal-site.vercel.app](akm-personal-site.vercel.app)
-
 - 💬 Ask me about **React, React Native, and Node.Js**
 
 - 📫 How to reach me **kaungmyat9504@protonmail.com**
